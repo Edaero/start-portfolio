@@ -1,7 +1,9 @@
-export default function aboutMe() {
+import Layout from "../components/Layout";
+
+export default function AboutMe() {
     return (
-        <div>
+        <Layout>
             <h1>자기소개 페이지</h1>
-        </div>
+        </Layout>
     )
 }
