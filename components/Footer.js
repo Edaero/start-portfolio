@@ -5,7 +5,7 @@ export default function Footer() {
     return (
         <div>
             <footer className="text-gray-600 body-font">
-                <div className="bg-gray-100">
+                <div>
                     <div className="container px-5 py-6 mx-auto flex items-center sm:flex-row flex-col">
                         <Link href="/">
                             <a className="flex title-font font-medium items-center md:justify-start justify-center text-gray-900">
@@ -18,7 +18,7 @@ export default function Footer() {
                         <Link href="https://www.instagram.com/">
                             <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
                                 <a className="ml-3 text-gray-500">
-                                    <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-5 h-5" viewBox="0 0 24 24">
+                                    <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-5 h-5" viewBox="0 0 24 24">
                                         <rect width="20" height="20" x="2" y="2" rx="5" ry="5"></rect>
                                         <path d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37zm1.5-4.87h.01"></path>
                                     </svg>
