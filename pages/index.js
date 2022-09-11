@@ -8,7 +8,7 @@ export default function Home() {
         <Layout>
             {/* 타이틀 */}
             <Head>
-                <title>Deng's Portfolio || Home</title>
+                <title>Deng{"'"}s Portfolio || Home</title>
                 <meta name="description" content="댕 포트폴리오 만들기" />
                 <link rel="icon" href="/favicon.ico" />
             </Head>

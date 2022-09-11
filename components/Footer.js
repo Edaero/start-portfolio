@@ -10,7 +10,7 @@ export default function Footer() {
                         <Link href="/">
                             <a className="flex title-font font-medium items-center md:justify-start justify-center text-gray-900">
                                 <span className="ml-3 text-xl">
-                                    Deng's Portfolio
+                                    Deng{"'"}s Portfolio
                                 </span>
                             </a>
                         </Link>

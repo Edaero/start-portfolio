@@ -5,7 +5,7 @@ export default function Contact() {
     return (
         <Layout>
             <Head>
-                <title>Deng's Portfolio || Contact</title>
+                <title>Deng{"'"}s Portfolio || Contact</title>
                 <meta name="description" content="댕 포트폴리오 만들기" />
                 <link rel="icon" href="/favicon.ico" />
             </Head>
