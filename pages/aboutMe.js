@@ -6,7 +6,7 @@ export default function AboutMe() {
     return (
         <Layout>
             <Head>
-                <title>Deng{"'"}s Portfolio || About me</title>
+                <title>{"Deng's Portfolio || About me"}</title>
                 <meta name="description" content="댕 포트폴리오 만들기" />
                 <link rel="icon" href="/favicon.ico" />
             </Head>
