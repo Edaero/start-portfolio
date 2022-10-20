@@ -12,7 +12,7 @@ export default function Home() {
         <link rel="icon" href="/mococo.jpg" />
       </Head>
 
-      <section className="flex min-h-screen flex-col items-center justify-center text-gray-600 body-font">
+      <section className="flex flex-col items-center justify-center text-gray-600 body-font h-screen">
         <div className="container lg:max-w-7xl mt-24 content mx-auto flex px-5 py-24 md:flex-row flex-col items-center justify-center sm">
           <Hero />
         </div>
